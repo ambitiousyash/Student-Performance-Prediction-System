@@ -262,9 +262,6 @@ Contributions are welcome! If you have suggestions or want to improve the projec
 4.  Push to the branch (`git push origin feature/your-feature-name`).
 5.  Open a Pull Request.
 
-## <a id="license"></a>📄 License
-<!-- ## 📄 License -->
-
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## <a id="future-enhancements"></a>🎯 Future Enhancements
